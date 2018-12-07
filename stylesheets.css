@@ -12,4 +12,5 @@ img.orange {
   height: auto;
   margin: 0 auto;
   display: block;
+  border-radius: 50%;
 }
