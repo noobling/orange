@@ -1,3 +1,15 @@
+body {
+  display: block;
+  /* margin: 0; */
+}
+
 .orange {
   color: orange;
+}
+
+img.orange {
+  width: 512px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
 }
